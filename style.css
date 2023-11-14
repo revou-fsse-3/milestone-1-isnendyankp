@@ -169,7 +169,7 @@ nav ul li a:hover {
 }
 
 /* Cat Photos */
-.cat-photos {
+.gallery-photos {
   text-align: center;
   font-size: 24px;
   color: #333;
@@ -178,14 +178,14 @@ nav ul li a:hover {
 
 /* cat Grid container */
 
-  .cat-photos .grid-container {
+  .gallery-photos .grid-container {
     display: grid;
     grid-template-columns: 1fr;
     padding: 8px;
     grid-gap: 8px;
   }
 
-  .cat-photos .grid-container img {
+  .gallery-photos .grid-container img {
     width: 100%;
     height: 100%;
     object-fit: cover;
@@ -202,17 +202,17 @@ nav ul li a:hover {
 }
 
 /* Apply animation to cat photos */
-.cat-photos .grid-container img {
+.gallery-photos .grid-container img {
   animation: zoomIn 1s;
 }
 
 /* Add transition to cat photos */
-.cat-photos .grid-container img {
+.gallery-photos .grid-container img {
   transition: transform 0.5s;
 }
 
 /* Apply transformation on hover */
-.cat-photos .grid-container img:hover {
+.gallery-photos .grid-container img:hover {
   transform: scale(1.029);
 }
 
@@ -403,22 +403,22 @@ footer {
   }
   /* Grid container */
 
-  .cat-photos .grid-container {
+  .gallery-photos .grid-container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
   }
 
-  .cat-photos .grid-container img {
+  .gallery-photos .grid-container img {
     width: 100%;
     height: 100%;
     object-fit: cover;
   }
-  .grid-container .cat-1 {
+  .grid-container .img-1 {
     grid-column: 1;
     grid-row: 1 / 2 span;
   }
 
-  .grid-container .cat-2 {
+  .grid-container .img-2 {
     grid-row: 1;
     grid-column: 2 / 3 span;
   }
