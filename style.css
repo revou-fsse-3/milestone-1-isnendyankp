@@ -433,11 +433,11 @@ footer {
 /* Mobile */
 @media (max-width: 768px) {
   
-  /* cat videos */
+  /* Company videos */
   .video-container {
     justify-content: center;
   }
-  /* cat articles */
+  /* Company articles */
   .article-container {
     flex-direction: column;
   }
