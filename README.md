@@ -17,6 +17,19 @@
 
 > Basic HTML, CSS, and Javascript
 
+<!-- Skill Set -->
+
+## Skill Set
+
+### Semantics HTML:
+
+1. Use appropriate HTML tags to structure the content of the company profile page.
+2. Use heading tags (h1, h2, etc.) to represent the hierarchy of headings.
+3. Use paragraph tags (p) for textual content.
+4. Use lists (ul, ol) for ordered or unordered information.
+5. Use semantic tags such as header, nav, main, section, article, and footer to provide meaningful structure to the page.
+6. Use appropriate tags for images, links, and other media elements.
+
 <!-- Task -->
 
 <!-- Github -->
