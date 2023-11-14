@@ -30,6 +30,15 @@
 5. Use semantic tags such as header, nav, main, section, article, and footer to provide meaningful structure to the page.
 6. Use appropriate tags for images, links, and other media elements.
 
+### Responsive Design:
+
+1. Implement CSS media queries to make the company profile page responsive across different screen devices.
+2. Ensure that the layout adapts smoothly to different screen sizes and orientations.
+3. Use relative units (such as percentages or ems) for sizing elements to maintain a consistent layout across devices.
+4. Adjust typography and font sizes to ensure readability on various screen sizes.
+5. Optimize images and other media for different resolutions and device capabilities.
+6. Do not use any CSS external librarie.
+
 <!-- Task -->
 
 <!-- Github -->
