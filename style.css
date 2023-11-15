@@ -400,6 +400,7 @@ footer {
 
 /* Media Query */
 
+/* Adjustment font size for about-p */
 @media (max-width: 320px) {
   .about-p {
     font-size: 16px;
@@ -414,6 +415,12 @@ footer {
   }
 }
 
+@media (max-width: 425px) {
+  .about-p {
+    font-size: 18px;
+    text-align: justify;
+  }
+}
 
 
 /* Hide Menu Bar */
