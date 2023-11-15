@@ -44,7 +44,7 @@ nav ul li {
 }
 
 .logo-company {
-  width: 5%;
+  width: 3.3%;
 }
 
 nav ul li a {
@@ -399,7 +399,7 @@ footer {
 /* Adjustment font-size for about-p */
 @media (max-width: 320px) {
   .about-p {
-    font-size: 16px;
+    font-size: 5px;
     text-align: justify;
   }
 }
