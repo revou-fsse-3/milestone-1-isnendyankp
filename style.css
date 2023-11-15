@@ -438,7 +438,7 @@ footer {
 
 
 /* Hide Menu Bar */
-@media (min-width: 426px) {
+@media (min-width: 467px) {
   .mobile {
     display: none;
   }
@@ -465,7 +465,7 @@ footer {
   }
 }
 /* Hide Nav ul list */
-@media (max-width: 425px) {
+@media (max-width: 466px) {
   nav ul {
     display: none;
   }
