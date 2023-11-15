@@ -422,6 +422,13 @@ footer {
   }
 }
 
+@media (max-width: 768px) {
+  .about-p {
+    font-size: 20px;
+    text-align: justify;
+  }
+}
+
 
 /* Hide Menu Bar */
 @media (min-width: 426px) {
