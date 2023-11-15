@@ -263,13 +263,9 @@ nav ul li a:hover {
 }
 ul.reason-list {
   list-style: circle;
-  padding-left: 20px;
+  align-items: center;
 }
-.article-2 {
-  color: #333;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-  padding: 0px 30px 0px 30px;
-}
+
 
 /*  Testimonial */
 .testimonial {
@@ -477,16 +473,6 @@ footer {
   /* Company videos */
   .video-container {
     justify-content: center;
-  }
-  /* Company articles */
-  .article-container {
-    flex-direction: column;
-  }
-  .article-1 {
-    margin-right: 0;
-  }
-  .article-2 {
-    margin-left: 0;
   }
   /* form section */
   .form-section form {
