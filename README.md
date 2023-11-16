@@ -53,6 +53,32 @@
 3. Clearly explain any dependencies or external libraries used in the project.
 4. Document any specific design choices or considerations made during the development process.
 
+<!-- Icon -->
+## Icon
+
+In this project i use icon from [flaticon](https://www.flaticon.com/).
+
+### How to use icon from flaticon
+
+1. Open [flaticon](https://www.flaticon.com/), then search icon that you want.
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Flaticon-1.png" alt="flaticon">
+
+2. Choose icon that you want.
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Flaticon-2.png" alt="flaticon">
+
+3. Click type download icon.
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Flaticon-3.png" alt="flaticon">
+
+4. Click download icon.
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Flaticon-4.png" alt="flaticon">
+
+5. After download icon, you can using as a img for product or etc.
+
+
 
 <!-- Github -->
 
