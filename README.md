@@ -43,7 +43,13 @@
 1. Publish the company profile page to a custom domain.
 2. Set up and configure a live server or hosting platform for the website deployment.
 3. Register a custom domain name and link it to the deployed website.
-4. Ensure that the website is accessible and functional on the custom domain
+4. Ensure that the website is accessible and functional on the custom domain.
+
+### Documentation:
+1. Create a readme file that provides clear instructions on how to set up and run the project.
+2. Include screenshots of the different stages of development, showcasing the process of building the page.
+3. Clearly explain any dependencies or external libraries used in the project.
+4. Document any specific design choices or considerations made during the development process.
 
 
 <!-- Task -->
