@@ -39,6 +39,13 @@
 5. Optimize images and other media for different resolutions and device capabilities.
 6. Do not use any CSS external librarie.
 
+### Deployment:
+1. Publish the company profile page to a custom domain.
+2. Set up and configure a live server or hosting platform for the website deployment.
+3. Register a custom domain name and link it to the deployed website.
+4. Ensure that the website is accessible and functional on the custom domain
+
+
 <!-- Task -->
 
 <!-- Github -->
