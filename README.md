@@ -54,7 +54,7 @@
 4. Document any specific design choices or considerations made during the development process.
 
 <!-- Icon -->
-## Icon
+## Flaticon
 
 In this project i use icon from [flaticon](https://www.flaticon.com/).
 
