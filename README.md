@@ -83,6 +83,9 @@
 <!-- Icon -->
 ## Flaticon
 
+### What is flaticon
+Flaticon is a large database of free vector icons. It offers users high quality graphic designs that are easily converted into a functional image, available in PNG, SVG, EPS, PSD, and BASE 64 formats. Flaticon allows users the ability to download icons in ranges of sizes and colors to best suit their individual needs.
+
 In this project i use icon from [flaticon](https://www.flaticon.com/).
 
 ### How to use icon from flaticon
