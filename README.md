@@ -17,6 +17,8 @@
 
 > Basic HTML, CSS, and Javascript
 
+<!-- Task -->
+
 <!-- Skill Set -->
 
 ## Skill Set
@@ -51,8 +53,6 @@
 3. Clearly explain any dependencies or external libraries used in the project.
 4. Document any specific design choices or considerations made during the development process.
 
-
-<!-- Task -->
 
 <!-- Github -->
 
