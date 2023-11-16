@@ -55,6 +55,31 @@
 3. Clearly explain any dependencies or external libraries used in the project.
 4. Document any specific design choices or considerations made during the development process.
 
+<!-- How to run this project -->
+
+## How to run this project
+
+1. Clone this repository with click code then choose ssh or https.
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Setup Project1.png" alt="How to run this project">
+
+2. Righ click on selected folder, then open git hub bash here.
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Setup Project2.png" alt="How to run this project">
+
+3. Then type git clone and paste the link that you copied before.
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Setup Project3.png" alt="How to run this project">
+
+4. Open the folder with your code editor then click open live server.
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Setup Project4.png" alt="How to run this project">
+
+5. You can looks this project with live server with your browser.
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Setup Project5.png" alt="How to run this project">
+
+
 <!-- Icon -->
 ## Flaticon
 
