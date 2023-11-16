@@ -14,6 +14,8 @@
 
 > Link Deploy Netlify: https://abc-company.netlify.app/
 
+> Link Deploy Niagahoster with subdomain: https://abc-company.isnendyankp.site/
+
 <!-- Deliverables  -->
 ## Deliverables
 
