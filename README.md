@@ -10,7 +10,9 @@
 
 <!-- Link Deploy -->
 
-> Link Deploy: 
+## Link Deploy
+
+> Link Deploy Netlify: https://abc-company.netlify.app/
 
 <!-- Deliverables  -->
 ## Deliverables
