@@ -144,7 +144,7 @@ Netlify is a cloud-based platform that helps developers build, deploy, and manag
 
 <img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\DNetlify 5.png" alt="Deploy Netlify">
 
-5. Choose repository project(module-2-isnendyankp).
+5. Choose repository project(milestone-1-isnendyankp).
 
 <img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\DNetlify 6.png" alt="Deploy Netlify">
 
