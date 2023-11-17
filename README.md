@@ -117,6 +117,19 @@
 
 <img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Process of building the page\Testimonial.png" alt="testimonial">
 
+9. Contact Form: In this section I create a contact form which consist of name, email, phone, & message. In this section I also add additional information about ask the client's IT experience, what a service client want & add a button upload file.
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Process of building the page\Contact Form.png" alt="contact-form">
+
+10. Button back to top: In this section I create a button back to top which consist of text button icon.
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Process of building the page\back to top.png" alt="button-back-to-top">
+
+
+11. Footer: And the last section I create a footer which consist of company address, company phone, company email.
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Process of building the page\Footer.png" alt="footer">
+
 
 
 <!-- Icon -->
