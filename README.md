@@ -81,6 +81,12 @@
 
 <img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Setup Project5.png" alt="How to run this project">
 
+<!-- Process of building the page -->
+
+## Process of building the page
+
+
+
 
 <!-- Icon -->
 ## Flaticon
