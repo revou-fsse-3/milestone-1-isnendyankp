@@ -109,6 +109,12 @@
 
 <img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Process of building the page\Company-Video.png" alt="company-video">
 
+7. why choose us: In this section I create content about why choose us which consist of 4 reason.
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Process of building the page\why us.png" alt="why-choose-us">
+
+
+
 <!-- Icon -->
 ## Flaticon
 
