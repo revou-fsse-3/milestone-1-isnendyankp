@@ -85,11 +85,13 @@
 
 ## Process of building the page
 
-1. Header: In summary, this code represents a common pattern for a responsive navigation header, where a hamburger menu is displayed for mobile views and a full navigation list is displayed for desktop views.
+1. Header: This section represents a common pattern for a responsive navigation header, where a hamburger menu is displayed for mobile views and a full navigation list is displayed for desktop views.
 
 <img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Process of building the page\Header-navbar.png" alt="header-navbar">
 
+2. Home website: This section represents a common pattern for a responsive home website, where a image is displayed for desktop views and a full text is displayed for mobile views. and this section im using transition for hover effect for the text.
 
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Process of building the page\Home website.png" alt="home-website">
 
 
 <!-- Icon -->
