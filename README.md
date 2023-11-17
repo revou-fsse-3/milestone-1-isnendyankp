@@ -93,6 +93,9 @@
 
 <img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Process of building the page\Home website.png" alt="home-website">
 
+3. About us: this section represents the "about" section of a webpage for a company, including a title, a detailed description, and a "Read More" button. In this section I also create a media query by changing the font-size & text-align accordingly width the screen size.
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Process of building the page\About-us.png" alt="about-us">
 
 <!-- Icon -->
 ## Flaticon
