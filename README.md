@@ -97,6 +97,14 @@
 
 <img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Process of building the page\About-us.png" alt="about-us">
 
+4. Our services: In this section I create content about company products which consist of web app development, mobile app development, & digital marketing.this section also using icon from flaticon.
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Process of building the page\Our Services.png" alt="our-services">
+
+5. Gallery foto: In this section I create a gallery of company photos which consist of 5 photos. In this section I also create a media query by changing grid template columns accordingly width the screen size. then this section i also using srcset for responsive image for different img when changing screen size.
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Process of building the page\Galery foto.png" alt="gallery-foto">
+
 <!-- Icon -->
 ## Flaticon
 
