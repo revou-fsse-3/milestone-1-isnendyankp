@@ -85,6 +85,10 @@
 
 ## Process of building the page
 
+1. Header: In summary, this code represents a common pattern for a responsive navigation header, where a hamburger menu is displayed for mobile views and a full navigation list is displayed for desktop views.
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Process of building the page\Header-navbar.png" alt="header-navbar">
+
 
 
 
