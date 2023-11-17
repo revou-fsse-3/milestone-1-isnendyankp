@@ -105,6 +105,10 @@
 
 <img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Process of building the page\Galery foto.png" alt="gallery-foto">
 
+6. Company video: In this section I create a video about company profile. and this code represents the "video" section of a webpage, which includes a title and an embedded video player.
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Process of building the page\Company-Video.png" alt="company-video">
+
 <!-- Icon -->
 ## Flaticon
 
