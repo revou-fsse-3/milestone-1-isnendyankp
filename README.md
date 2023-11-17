@@ -113,6 +113,10 @@
 
 <img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Process of building the page\why us.png" alt="why-choose-us">
 
+8. Testimonial: In this section I create content about testimonial which consist of 3 testimonial. In this section I also create a media query by changing grid template columns accordingly width the screen size.
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Process of building the page\Testimonial.png" alt="testimonial">
+
 
 
 <!-- Icon -->
